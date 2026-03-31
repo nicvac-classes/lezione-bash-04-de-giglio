@@ -13,6 +13,6 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
-
+ find ambiente/immagini -name"*2023"
+ 
 
