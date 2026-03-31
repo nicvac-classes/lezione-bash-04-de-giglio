@@ -13,6 +13,10 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
-
+ambiente/sandbox/mio_script.sh 
+echo "il mio script funziona!"
+il mio script funziona!
+ls -l
+chmod[x]rwxr--r--
+ls -n
 
